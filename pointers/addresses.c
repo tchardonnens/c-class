@@ -24,4 +24,6 @@ int main(void)
   printf("the address of pc is %p\n", &pc);
   printf("the address of pi is %p\n", &pi);
   printf("the address of pd is %p\n", &pd);
+
+  return 0;
 }
